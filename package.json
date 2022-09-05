@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "name": "objects",
+  "version": "1.0.0",
+  "description": "exercises",
+  "type": "module",
+  "main": "exercises.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dannyellz/Way-of-Learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dannyellz/Way-of-Learning/issues"
+  },
+  "homepage": "https://github.com/Dannyellz/Way-of-Learning#readme"
+}
